@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"      : "blog",
+    "script"    : "app.js",
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }]
+}
